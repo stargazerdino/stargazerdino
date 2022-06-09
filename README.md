@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stargazerdino
-- 👀 I’m interested in HTML, XML, and Javascript (Digital Humanities!).
+- 👀 I’m interested in HTML, XML, SQL, and Javascript (Digital Humanities!).
 - 🌱 I’m hoping to start on Python soon.
 
 <!---
